@@ -22,4 +22,4 @@
 
 [4] stats.nba.com
 
-[5] Kapadia, A.: Pre-Flop Hole Card Winning Probabilities, https://www.cs.indiana.edu/kapadia/nofoldem/index.html (2005)
+[5] Kapadia, A.: Pre-Flop Hole Card Winning Probabilities, https://cs.indiana.edu/~kapadia/nofoldem/ (2005)

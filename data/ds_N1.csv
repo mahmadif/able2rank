@@ -1,0 +1,10 @@
+"RANK","ISP","Speed","Previous.Month.Speed","Change","Fiber","Cable","DSL","Satellite","Wireless"
+1,"UnitymediaKabelBW",4.11,4.13,NA,0,1,0,0,0
+2,"KabelDeutschland",3.96,3.96,NA,0,1,0,0,0
+3,"NetCologne",3.93,3.9,NA,1,1,0,0,1
+4,"M-net",3.77,3.8,NA,1,0,1,0,0
+5,"Telekom",3.75,3.77,NA,1,0,1,0,0
+6,"EWE",3.75,3.75,NA,1,0,1,0,0
+7,"o2",3.62,3.61,NA,0,0,1,0,0
+8,"Versatel",3.58,3.6,NA,0,0,1,0,0
+9,"VodafoneGermany",3.49,3.48,NA,1,0,1,0,0

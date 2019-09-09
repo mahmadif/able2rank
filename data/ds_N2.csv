@@ -1,0 +1,14 @@
+"RANK","ISP","Speed","Previous.Month.Speed","Change","Fiber","Cable","DSL","Satellite","Wireless"
+1,"Comcast",4.05,3.96,NA,0,1,0,0,0
+2,"Verizon - FiOS",3.93,3.83,NA,1,0,0,0,0
+3,"Optimum",3.89,3.81,NA,0,1,0,0,0
+4,"Spectrum",3.87,3.8,1,0,1,0,0,0
+5,"Cox",3.87,3.81,-1,0,1,0,0,0
+6,"Mediacom",3.79,3.73,NA,0,1,0,0,0
+7,"AT&T - U-verse",3.73,3.65,1,1,0,0,0,0
+8,"Suddenlink",3.72,3.65,-1,0,1,0,0,0
+9,"Frontier",3.21,3.17,NA,1,0,1,0,0
+10,"CenturyLink",3.16,3.11,NA,0,0,1,0,0
+11,"AT&T - DSL",3.02,2.97,NA,0,0,1,0,0
+12,"Windstream",2.94,2.89,1,0,0,1,0,0
+13,"Verizon - DSL",2.89,2.94,-1,0,0,1,0,0

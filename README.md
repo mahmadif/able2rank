@@ -1,16 +1,16 @@
 # able2rank
 
-able2rank (**a**nalogy-**b**ased **le**arning **to rank**) is a learning to rank algorithm proposed in [*] for the task of object ranking on the basis of analogical reasoning.
+able2rank (**a**nalogy-**b**ased **le**arning **to rank**) is a learning to rank algorithm proposed in [+] for the task of object ranking on the basis of analogical reasoning.
 
 The following collection of data sets is used for the task of learning to rank (specifically, object ranking) in the following papers:
 
-* [*] Mohsen Ahmadi Fahandar, Eyke Hüllermeier, Learning to Rank Based on Analogical Reasoning, 
+* [+] Mohsen Ahmadi Fahandar, Eyke Hüllermeier, Learning to Rank Based on Analogical Reasoning, 
 Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018) 
 
-* [**] Mohsen Ahmadi Fahandar, Eyke Hüllermeier, Analogy-Based Preference Learning with Kernels, 
+* [++] Mohsen Ahmadi Fahandar, Eyke Hüllermeier, Analogy-Based Preference Learning with Kernels, 
 Proceedings of Advances in Artificial Intelligence (KI 2019)
 
-* [***] Mohsen Ahmadi Fahandar, Eyke Hüllermeier, Feature Selection for Analogy-Based Learning to Rank, 
+* [+++] Mohsen Ahmadi Fahandar, Eyke Hüllermeier, Feature Selection for Analogy-Based Learning to Rank, 
 Proceedings of the 22nd International Conference on Discovery Science (DS 2019) 
 
 ### Real Data

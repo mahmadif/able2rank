@@ -13,18 +13,13 @@ Proceedings of Advances in Artificial Intelligence (KI 2019)
 * [+++] Mohsen Ahmadi Fahandar, Eyke Hüllermeier, Feature Selection for Analogy-Based Learning to Rank, 
 Proceedings of the 22nd International Conference on Discovery Science (DS 2019) 
 
-### Real Data
+### Real Data (`/data`)
 ---
 **Bundesliga (B):** This data set comprises table standings of
 18 football teams in the German Bundesliga (German
-football league) for the seasons 2015/16 and 2016/17 [1].
+football league) for the seasons 2015/16 (`ds_B1`) and 2016/17 (`ds_B2`) [1].
 Each team is described in terms of 13 features, such as
-matches, win, loss, draw, goals-for, goals-against, etc. To
-study the ability of knowledge transfer, we also included
-the table standing for the season 2016/17, in which only
-the statistics for away matches are considered (with 6
-features). Another case is the table standing in the midseason 2016/17 (i.e., only the first half of the season) with
-7 features
+matches, win, loss, draw, goals-for, goals-against, etc. 
 
 **Decathlon (D):** This data contains rankings of the top 100
 men’s decathletes worldwide in the years 2005 and 2006,

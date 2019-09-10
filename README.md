@@ -115,3 +115,30 @@ wins, sets win, sets loss, etc.
 [11] www.cwur.org
 
 [12] worldleague.2017.fivb.com
+
+### Citations
+---
+If you use the analogy-based learning to rank algorithm (`/code/able2rank.r`) in your research, please cite the following paper:
+
+```
+@inproceedings{ahmadif_huellermeier_aaai18,
+title={Learning to Rank Based on Analogical Reasoning},
+author={Mohsen {Ahmadi Fahandar} and Eyke H\"ullermeier},
+booktitle={Proceedings AAAI--2018, 32th AAAI Conference on Artificial Intelligence},
+address={New Orleans, Louisiana, USA},
+pages = {2951--2958},
+year=2018
+}
+```
+
+If you use the source code for feature selection (`/code/fs.r`) or provided datasets (`/data`) in your research, please consider citing the following paper:
+
+```
+@inproceedings{ahmadif_huellermeier_ds19,
+title={Feature Selection for Analogy-Based Learning to Rank},
+author={Mohsen {Ahmadi Fahandar} and Eyke H\"ullermeier},
+booktitle={Proceedings DS--2019, 22nd International Conference on Discovery Science},
+address={Split, Croatia},
+year=2019
+}
+```

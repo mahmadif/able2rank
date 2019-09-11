@@ -143,8 +143,8 @@ OR
   author = {{Ahmadi Fahandar}, Mohsen and {H{\"u}llermeier}, Eyke},
   title = "{Analogy-Based Preference Learning with Kernels}",
   booktitle = {KI--2019: Advances in Artificial Intelligence},
-	volume = "11793",
-	pages="34--47",
+  volume = "11793",
+  pages="34--47",
   publisher="Springer International Publishing",
   address="Cham",
   year = "2019"

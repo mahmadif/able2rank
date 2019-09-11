@@ -137,7 +137,7 @@ If you use the source code for feature selection (`/code/fs.r`) or provided data
   year=2019
 }
 ```
-OR
+AND/OR
 ```
 @inproceedings{ahmadif_huellermeier_ki19,
   author={Mohsen {Ahmadi Fahandar} and Eyke H\"ullermeier},

@@ -126,7 +126,7 @@ If you use the analogy-based learning to rank algorithm (`/code/able2rank.r`) in
 }
 ```
 
-If you use the source code for feature selection (`/code/fs.r`) or provided datasets (`/data`) in your research, please consider citing the following paper:
+If you use the source code for feature selection (`/code/fs.r`) or provided datasets (`/data`) in your research, please consider citing:
 
 ```
 @inproceedings{ahmadif_huellermeier_ds19,
@@ -140,7 +140,7 @@ If you use the source code for feature selection (`/code/fs.r`) or provided data
 OR
 ```
 @inproceedings{ahmadif_huellermeier_ki19,
-  author = {{Ahmadi Fahandar}, Mohsen and {H{\"u}llermeier}, Eyke},
+  author={Mohsen {Ahmadi Fahandar} and Eyke H\"ullermeier},
   title = "{Analogy-Based Preference Learning with Kernels}",
   booktitle = {KI--2019: Advances in Artificial Intelligence},
   volume = "11793",

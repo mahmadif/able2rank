@@ -117,12 +117,12 @@ If you use the analogy-based learning to rank algorithm (`/code/able2rank.r`) in
 
 ```
 @inproceedings{ahmadif_huellermeier_aaai18,
-title={Learning to Rank Based on Analogical Reasoning},
-author={Mohsen {Ahmadi Fahandar} and Eyke H\"ullermeier},
-booktitle={Proceedings AAAI--2018, 32th AAAI Conference on Artificial Intelligence},
-address={New Orleans, Louisiana, USA},
-pages = {2951--2958},
-year=2018
+  title={Learning to Rank Based on Analogical Reasoning},
+  author={Mohsen {Ahmadi Fahandar} and Eyke H\"ullermeier},
+  booktitle={Proceedings AAAI--2018, 32th AAAI Conference on Artificial Intelligence},
+  address={New Orleans, Louisiana, USA},
+  pages = {2951--2958},
+  year=2018
 }
 ```
 
@@ -130,10 +130,23 @@ If you use the source code for feature selection (`/code/fs.r`) or provided data
 
 ```
 @inproceedings{ahmadif_huellermeier_ds19,
-title={Feature Selection for Analogy-Based Learning to Rank},
-author={Mohsen {Ahmadi Fahandar} and Eyke H\"ullermeier},
-booktitle={Proceedings DS--2019, 22nd International Conference on Discovery Science},
-address={Split, Croatia},
-year=2019
+  title={Feature Selection for Analogy-Based Learning to Rank},
+  author={Mohsen {Ahmadi Fahandar} and Eyke H\"ullermeier},
+  booktitle={Proceedings DS--2019, 22nd International Conference on Discovery Science},
+  address={Split, Croatia},
+  year=2019
+}
+```
+OR
+```
+@inproceedings{ahmadif_huellermeier_ki19,
+  author = {{Ahmadi Fahandar}, Mohsen and {H{\"u}llermeier}, Eyke},
+  title = "{Analogy-Based Preference Learning with Kernels}",
+  booktitle = {KI--2019: Advances in Artificial Intelligence},
+	volume = "11793",
+	pages="34--47",
+  publisher="Springer International Publishing",
+  address="Cham",
+  year = "2019"
 }
 ```

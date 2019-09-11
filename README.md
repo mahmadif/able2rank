@@ -66,17 +66,17 @@ speed of previous month, fiber, cable, etc.
 
 **NBA Teams and Players (T, P):** Ranking of the 30 NBA teams as well as top 50 players in the NBA for the seasons 2016/17 (`ds_T1` and `ds_P1`, resp.) and 2017/18 (`ds_T2` and `ds_P2`, resp.), obtained from NBA stats [9]. Each team is represented by 28 numeric features, such as games played, wins, losses, win percentage, etc. Players are described by 20 numeric features, such as games played, minutes played, points, field goals made, etc.
 
-**Poker (PK):** Given the initial pair of cards as starting hand in an n-player Texas Holdem game, without seeing any of flop/turn/river cards, what is the probability that the starting hand will beat all other n-1 hands after the river? Based on this probability, [10] provides a ranking of all possible starting hands (hence 169 instances) in an n-player game on the basis of 4*10^9 simulated games. We represent each pair of cards by a 13-dimensional feature vector (corresponding to A, K, Q, J, T, 9, ..., 2) with values in {0,1,2. A value 0 or 1 indicates if the corresponding feature (card) is among the starting hand, and 2 indicates a pair of cards. In addition, a binary feature is used to indicate if the starting cards are of the same suit or not.
+**Poker (PK):** Given the initial pair of cards as starting hand in an n-player Texas Holdem game, without seeing any of flop/turn/river cards, what is the probability that the starting hand will beat all other n-1 hands after the river? Based on this probability, [10] provides a ranking of all possible starting hands (hence 169 instances) in an n-player game on the basis of 4*10^9 simulated games. We represent each pair of cards by a 13-dimensional feature vector (corresponding to A, K, Q, J, T, 9, ..., 2) with values in {0,1,2. A value 0 or 1 indicates if the corresponding feature (card) is among the starting hand, and 2 indicates a pair of cards. In addition, a binary feature is used to indicate if the starting cards are of the same suit or not. `ds_PK1`, `ds_PK2` and `ds_PK3` correspond to `n=10`, `n=9` and `n=5`.
 
 **University Rankings (U):** This data includes the list of top 100
-universities worldwide for the years 2014 and 2015. It is
+universities worldwide for the years 2015 (`ds_U1`) and 2014 (`ds_U2`). It is
 published by the Center for World University Rankings
 (CWUR). Each university is represented by 9 features
 such as national rank, quality of education, alumni employment, etc. Detailed information about how the ranking is determined based on these features can be found on the CWUR website [11].
 
 **Volleyball WL (V):** This data contains the table standing for
-Group1 (statistics of 12 teams divided into subgroups,
-each with 9 matches) and Group3 (statistics of 12 teams,
+Group1 (`ds_V2`, statistics of 12 teams divided into subgroups,
+each with 9 matches) and Group3 (`ds_V1`, statistics of 12 teams,
 each with 6 matches) of volleyball world league 2017 extracted from the FIVB website [12]. There are 12 features in
 total, such as win, loss, number of (3-0, 3-1, 3-2, etc.)
 wins, sets win, sets loss, etc.

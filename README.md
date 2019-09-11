@@ -13,7 +13,7 @@ Proceedings of Advances in Artificial Intelligence (KI 2019)
 * [+++] Mohsen Ahmadi Fahandar, Eyke Hüllermeier, Feature Selection for Analogy-Based Learning to Rank, 
 Proceedings of the 22nd International Conference on Discovery Science (DS 2019) 
 
-### Real Data (`/data`)
+### Real Data
 ---
 **Bundesliga (B):** This data set comprises table standings of
 18 football teams in the German Bundesliga (German

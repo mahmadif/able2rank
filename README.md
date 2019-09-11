@@ -83,7 +83,7 @@ wins, sets win, sets loss, etc.
 
 ### Synthetic Data
 ---
-**Answer Sheets (AS):** A set of answer sheets for multiple choice questions is ranked according to the score (3C-W)/(3Q), where Q, C, and W denote the number of questions, correct answers, and wrong answers, respectively. For fixed Q=50, N instances are generated at random by sampling C uniformly from {1, ..., Q-1} and W uniformly from {0, Q-C}. Moreover, noisy (irrelevant) features of different type are added: 2 binary features in {0,1}, 2 nominal in {1,2,3,4,5}, and 3 integer features in {1,...,Q}. This process gives rise to data sets `ds_AS1` (N=50) and `ds_AS2` (N=100). Further, we doubled the number of noisy features (of each type) to produce data sets `ds_AS3` (N=50) and `ds_AS4` (N=100).
+**Answer Sheets (AS):** A set of answer sheets for multiple choice questions is ranked according to the score (3C-W)/(3Q), where Q, C, and W denote the number of questions, correct answers, and wrong answers, respectively. For fixed Q=50, N instances are generated at random by sampling C uniformly from {1, ..., Q-1} and W uniformly from {0, Q-C}. Moreover, noisy (irrelevant) features of different type are added: 2 binary features in {0,1}, 2 nominal in {1,2,3,4,5}, and 3 integer features in {1,...,Q}. This process gives rise to data sets `ds_synthetic_AS1` (N=50) and `ds_synthetic_AS2` (N=100). Further, we doubled the number of noisy features (of each type) to produce data sets `ds_synthetic_AS3` (N=50) and `ds_synthetic_AS4` (N=100).
 
 ### References
 ---

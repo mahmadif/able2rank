@@ -126,7 +126,7 @@ If you use the analogy-based learning to rank algorithm (`/code/able2rank.r`) in
 }
 ```
 
-If you use the source code for feature selection (`/code/fs.r`) or provided datasets (`/data`) in your research, please consider citing:
+If you use the source code for feature selection (`/code/fs.r` or `/code/synthetic_data_AS.r`) or provided datasets (`/data`) in your research, please consider citing:
 
 ```
 @inproceedings{ahmadif_huellermeier_ds19,

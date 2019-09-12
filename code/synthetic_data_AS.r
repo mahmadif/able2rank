@@ -29,7 +29,7 @@ f_synthetic_data_answer_sheet <- function( nr, N_question = 50, N_binary, N_nomi
         matrix(sample(1:N_question, nr*N_integer, replace = TRUE), ncol = N_integer),
         matrix(sample(0:1, nr*N_binary, replace = TRUE), ncol = N_binary),
         "unanswered" = N_question-(m1[,1]+m1[,2]),
-		matrix(sample(1:5, nr*N_nominal, replace = TRUE), ncol = N_nominal)
+	matrix(sample(1:5, nr*N_nominal, replace = TRUE), ncol = N_nominal)
         )
     
     # score <- (3C-W)/(3Q)

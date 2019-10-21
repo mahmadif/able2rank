@@ -132,9 +132,12 @@ If you use the source code for feature selection (`/code/fs.r` or `/code/synthet
 @inproceedings{ahmadif_huellermeier_ds19,
   title={Feature Selection for Analogy-Based Learning to Rank},
   author={Mohsen {Ahmadi Fahandar} and Eyke H\"ullermeier},
-  booktitle={Proceedings DS--2019, 22nd International Conference on Discovery Science},
-  address={Split, Croatia},
-  year=2019
+  booktitle={Proceedings DS--2019: 22nd International Conference on Discovery Science},
+  volume = "11828",
+  pages="279--289",
+  publisher="Springer International Publishing",
+  address="Split, Croatia",
+  year = "2019"
 }
 ```
 AND/OR
@@ -142,11 +145,11 @@ AND/OR
 @inproceedings{ahmadif_huellermeier_ki19,
   author={Mohsen {Ahmadi Fahandar} and Eyke H\"ullermeier},
   title = "{Analogy-Based Preference Learning with Kernels}",
-  booktitle = {KI--2019: Advances in Artificial Intelligence},
+  booktitle = {Proceedings KI--2019: Advances in Artificial Intelligence},
   volume = "11793",
   pages="34--47",
   publisher="Springer International Publishing",
-  address="Cham",
+  address="Kassel, Germany",
   year = "2019"
 }
 ```

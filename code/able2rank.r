@@ -57,6 +57,7 @@ func_ApproximateGraded <- function(A,B,C,D, bin_vec, tolerance=0.2){ # does not 
 #================== func_APP ==================
 
 # func_APP implements the Analogy-based Pairwise Preferences (APP) algorithm proposed in [1]
+# the function is implemented using inner loops for illustration purposes. Check out a much faster python implementation: mahmadif/able2rank_
 
 # input:
 	# train_norm: train data \in [0,1]^d where d is dimension
